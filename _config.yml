@@ -21,7 +21,7 @@
 title: Isabel Sol Baptism
 email: arzaba.schwantes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Website describing the event of Isabel Sol's baptism in Oaxaca, Mexico on 2022-07-09. 
+  Website for Isabel Sol's baptism on 2022-07-09 in Oaxaca Mexico.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -31,8 +31,8 @@ github_username:  jekyll
 theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
-  - jekyll-seo
   - jekyll-sitemap
+  - jekyll-seo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
