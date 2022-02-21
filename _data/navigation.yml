@@ -1,0 +1,11 @@
+- title: Home
+  url: /
+- title: lodging
+  url: /lodging
+- title: Food
+  url: /food
+- title: tourism
+  url: /tourism
+- title: COVID Info
+  url: /covid-info
+
