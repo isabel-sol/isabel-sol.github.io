@@ -1,29 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-02-21 11:14:59 -0500
-categories: jekyll update
+title:  "What Expect at a Baptism in Mexico"
+date:   2022-05-07
+categories: Event Info
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Church Ceremony
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The baptism will be held as part of a group ceremony - which means it will be shorter.
+There will be a short mass, there is no expectation that you take communion. Should be simple and quick.
+Baptisms are generally a little fancier in Mexico than in the United States - don't feel obligated to dress
+to the 9s but know that people will be a little more dressed up. 
 
-Jekyll also offers powerful support for code snippets:
+![Templo Santo Domingo](https://www.travelreport.mx/wp-content/uploads/2018/05/iglesia-santo-domingo-1.jpg)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Calenda
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Like everything good in Oaxaca, the baptism will be followed by a calenda to the Quinta Real for brunch. Calendas are 
+essentially parades with a band, dancers, giant puppets, fireworks, and all of the guests to the event. 
+Unlike the calenda at our wedding, there won't be mezcal served. Wear or bring comfortable shoes for several 
+blocks of dancing.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Calenda Video](https://www.youtube.com/watch?v=3pLYhqMY0_A)
+
+## Brunch
+
+Brunch will be served buffet style - eggs, crepes, pancakes, chilaquiles, tamales, and a lot more - starting
+at 11 am in Los Lavaderos at Quinta Real. This is an outdoor space and tables will be setup over grass.  
+
+![Los Lavaderos](https://i2.wp.com/laplanner.mx/uploads/2018/03/hotel-quinta-real-oaxaca-5.jpg?fit=1024%2C616&ssl=1)
