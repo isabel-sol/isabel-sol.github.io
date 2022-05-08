@@ -5,4 +5,24 @@
 layout: home
 ---
 
-Tourism!
+### Things to do
+
+### Things to see
+
+### Culture
+
+- Guelaguetza 
+
+- Jardin Etnobotanico 
+
+- Monte alban
+
+- Mitla
+- Arbol de tule
+- Barro Negro
+- Alebrijes
+- Mezcal
+- Art and Book Collectives
+- Cuajimoloyas - 
+- The Coast -  
+
