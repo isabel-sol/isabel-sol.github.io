@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Expect at a Baptism in Mexico"
+title:  "What to Expect at a Baptism in Mexico"
 date:   2022-05-07
 categories: Event Info
 ---
