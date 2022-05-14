@@ -1,4 +1,5 @@
 ---
+title: Lodging
 layout: home
 ---
 
