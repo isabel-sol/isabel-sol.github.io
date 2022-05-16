@@ -8,7 +8,7 @@ categories: Event Info
 
 ## Church Ceremony
 
-The baptism will be held as part of a group ceremony - which means it will be shorter.
+The baptism will be shorter - less than an hour - and the service will be for Isa.
 There will be a short mass, there is no expectation that you take communion. Should be simple and quick.
 Baptisms are generally a little fancier in Mexico than in the United States - don't feel obligated to dress
 to the 9s but know that people will be a little more dressed up. 
