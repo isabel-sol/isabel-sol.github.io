@@ -17,6 +17,9 @@ tags:
   <h2> Ceremony </h2>
  <h3> 9 am on Saturday, July 9th 2022</h3>
  <h3>Templo de Santo Domingo, Oaxaca, Mexico </h3>
+ <h2>Calenda</h2
+   <h3> 10 am Saturday, July 9th 2022 </h3>
+  <h3> Centro Historico</h3>
  <h2> Brunch </h2>
  <h3> 11 am on Saturday, July 9th 2022 </h3>
  <h3> Quinta Real - Los Lavaderos Garden</h3>
