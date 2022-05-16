@@ -15,7 +15,7 @@ tags:
 <hr>
 <div style="text-align:center;" > 
   <h2> Ceremony </h2>
- <h3> 9 AM on Saturday, July 9th 2022</h3>
+ <h3> 9 am on Saturday, July 9th 2022</h3>
  <h3>Templo de Santo Domingo, Oaxaca, Mexico </h3>
  <h2> Brunch </h2>
  <h3> 11 am on Saturday, July 9th 2022 </h3>
