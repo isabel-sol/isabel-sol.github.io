@@ -8,10 +8,7 @@ categories: Event Info
 
 ## Church Ceremony
 
-The baptism will be shorter - less than an hour - and the service will be for Isa.
-There will be a short mass, there is no expectation that you take communion. Should be simple and quick.
-Baptisms are generally a little fancier in Mexico than in the United States - don't feel obligated to dress
-to the 9s but know that people will be a little more dressed up. 
+There will be a short mass at 9am in Templo de Santo Domingo, right in the main square. There is no expectation that you take communion. If you are wondering what to wear: a linen shirt (including a guayabera) or a light weight dress would be perfect. The church requires you to wear a mask.
 
 ![Templo Santo Domingo](https://www.travelreport.mx/wp-content/uploads/2018/05/iglesia-santo-domingo-1.jpg)
 

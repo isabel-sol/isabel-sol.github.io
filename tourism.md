@@ -5,20 +5,6 @@ title: Tourism
 layout: home
 ---
 
-### Things to do
-
-### Things to see
-
-### Culture
-
-To be added:
-- Guelaguetza 
-- Barro Negro
-- Alebrijes
-- Mezcal
-- Art and Book Collectives
-- Cuajimoloyas - 
-- The Coast -  
 
 {% for item in site.data.Tourism %}
 <div>

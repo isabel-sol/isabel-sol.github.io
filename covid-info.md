@@ -21,7 +21,7 @@ The majority of the baptism activities will be taking place outside where masks 
 
 ## Vaccination
 
-Mexico does not requires
+As of 18 May 2022, Mexico does not require vaccination to enter the country. 
 
 - Testing, Vaccine, and Masking requirements
 
