@@ -33,10 +33,11 @@ As of 18 May 2022, Mexico does not require vaccination to enter the country. We 
 
 ## What to do if you if you get COVID 
 
+- If you are very ill seek medical care immediately
 - Check if your credit card or travel insurance will cover any expenses incurred during this unexpected event
 - Extend your lodging to meet your quarantine period
 - Find a doctor or clinic that you can contact should things get worse (medical treatment is generally cheap though private hospital stays will get expensive)
-  - You're likely not the first guest to COVID so ask the concierge at your hotel for recommendations 
+  - You're likely not the first guest to contract COVID-19 so call the  concierge at your hotel to ask for recommendations 
   - most pharmacies have free doctors that will see you and provide medical advice
 - After you recover, you will need proof of recovery from a health professional. See the [cdc's requirements](https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-international-air-travelers.html)
 
